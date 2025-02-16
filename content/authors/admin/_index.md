@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vincenzina Caputo
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Vincenzina
+last_name: Caputo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor and Homer Nowlin Chair in Consumer and Food Economics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Michigan State University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
