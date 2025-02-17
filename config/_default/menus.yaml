@@ -15,12 +15,15 @@ main:
   - name: Research
     url: xxx
     weight: 20
+    
   - name: Extension
     url: xxx
     weight: 25
+
   - name: News
     url: xxx
     weight: 30
+
   - name: Donors
     url:xxx
     weight: 35
@@ -28,9 +31,11 @@ main:
   - name: Educational program
     url: xxx
     weight: 40
+
   - name: Contact us
     url: xxx
     weight: 45
+
   - name: Team
     url: xxx
     weight: 50
