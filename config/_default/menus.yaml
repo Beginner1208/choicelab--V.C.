@@ -9,35 +9,35 @@ main:
     weight: 10
 
   - name: About the lab
-    url: xxxx
+    url: '#About the lab'
     weight: 15
   
   - name: Research
-    url: xxx
+    url: '#Research'
     weight: 20
 
   - name: Extension
-    url: xxx
+    url: '#Extension'
     weight: 25
 
   - name: News
-    url: xxx
+    url: '#News'
     weight: 30
 
   - name: Donors
-    url: xxx
+    url: '#Donors'
     weight: 35
 
   - name: Educational program
-    url: xxx
+    url: '#Educational program'
     weight: 40
 
   - name: Contact us
-    url: xxx
+    url: '#Contact us'
     weight: 45
 
   - name: Team
-    url: xxx
+    url: '#Team'
     weight: 50
 
   - name: Publications
