@@ -36,7 +36,7 @@ main:
     url: '#Contact us'
     weight: 45
 
-  - name: Team
+  - name: People
     url: '#Team'
     weight: 50
 
