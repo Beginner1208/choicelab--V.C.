@@ -18,23 +18,29 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Caputo is an Associate Professor at the Department of Agricultural, Food, and Resource Economics, appointed in the tenure system. Prior to this appointment, she was Assistant Professor in the Department of Agricultural and Resource Economics at Korea University, Seoul, South Korea (2013-2016), a Research Associate in the Department of Agricultural Economics and Agribusiness, University of Arkansas, USA (2012-2013), and a Post-doctoral Researcher in the Department of Agricultural Sciences (DIPSA) at the University of Bologna Alma Mater Studiorum, Italy (2010-2012).
+
+Dr. Caputo’s research focuses on modeling consumer food choice behavior and demand for novel food products and new food technologies integrating various disciplines such as economics, marketing, neuroeconomics, behavioral economics, and sensory science. Her work is comprised of two major components: (1) empirical analysis of consumer decision-making behavior; (2) methodological innovations to improve the validity and reliability of experimental methods in general and discrete choice experiments in particular. The audiences of Dr. Caputo empirical work are policy-makers, producers, and food companies, while her methodological research informs fellow academics on how to best design economic experiments and model food choice behavior.'
+
+She has presented her research works in more than 50 international conferences and published peer reviewed articles in numerous in professional journals including American Journal of Agricultural Economics, Journal of Economic Behavior & Organization, European Review of Agricultural Economics, Economic Inquiry, Journal of Choice Modeling, Journal of Agricultural Economics, Agricultural Economics, Food Policy, among others. She is currently working on an USDA-NIFA -AFRI (market and economy) grant researching consumer choice behavior and demand for alternative genetically engineered foods (gene-edited, transgenic GMO, and cisgenic GMO) using a neuro-economics approach; as well as on a Food Marketing Institute (FMI) Foundation grant investigating consumers purchase behavior toward plant-based and animal-based gene-edited foods.'
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Consumer Decision-Making Behavior
+  - Choice Modeling
+  - Experimental Economics
+  - Survey Design
+  - Food marketing
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in xxx
+      institution: xx
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MSc in xxx
+      institution: xxx
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in xxx
+      institution: xxx
       year: 2008
 
 # Social/Academic Networking
@@ -72,6 +78,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Caputo is an Associate Professor at the Department of Agricultural, Food, and Resource Economics, appointed in the tenure system. Prior to this appointment, she was Assistant Professor in the Department of Agricultural and Resource Economics at Korea University, Seoul, South Korea (2013-2016), a Research Associate in the Department of Agricultural Economics and Agribusiness, University of Arkansas, USA (2012-2013), and a Post-doctoral Researcher in the Department of Agricultural Sciences (DIPSA) at the University of Bologna Alma Mater Studiorum, Italy (2010-2012).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+La Dott.ssa Caputo è Professore Associato presso il Dipartimento di Economia Agraria, Alimentare e delle Risorse, con un incarico nel sistema di tenure. Prima di questa nomina, è stata Assistant Professor presso il Dipartimento di Economia Agraria e delle Risorse della Korea University, Seoul, Corea del Sud (2013-2016), Research Associate presso il Dipartimento di Economia Agraria e Agribusiness dell'Università dell'Arkansas, USA (2012-2013), e Ricercatrice Post-dottorato presso il Dipartimento di Scienze Agrarie (DIPSA) dell'Università di Bologna Alma Mater Studiorum, Italia (2010-2012).
