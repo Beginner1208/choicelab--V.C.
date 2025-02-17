@@ -15,7 +15,7 @@ main:
   - name: Research
     url: xxx
     weight: 20
-    
+
   - name: Extension
     url: xxx
     weight: 25
@@ -25,7 +25,7 @@ main:
     weight: 30
 
   - name: Donors
-    url:xxx
+    url: xxx
     weight: 35
 
   - name: Educational program
